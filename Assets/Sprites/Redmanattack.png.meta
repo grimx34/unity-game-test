@@ -1,0 +1,213 @@
+fileFormatVersion: 2
+guid: fbf9da60aa0b6f34d9431be9e1918fc5
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Redmanattack
+    21300002: Redmanattack_0
+    21300004: Redmanattack_1
+    21300006: Redmanattack_2
+    21300008: Redmanattack_3
+    21300010: Redmanattack_4
+    21300012: Redmanattack_5
+    21300014: Redmanattack_6
+    21300016: Redmanattack_7
+    21300018: Redmanattack_8
+    21300020: Redmanattack_9
+    21300022: Redmanattack_10
+    21300024: Redmanattack_11
+    21300026: Redmanattack_12
+    21300028: Redmanattack_13
+    21300030: Redmanattack_14
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Redmanattack_0
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 1710
+        width: 183
+        height: 304
+      alignment: 9
+      pivot: {x: .31911999, y: .472943753}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Redmanattack_1
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 1709
+        width: 167
+        height: 328
+      alignment: 9
+      pivot: {x: .333433598, y: .447453201}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Redmanattack_2
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 1709
+        width: 154
+        height: 335
+      alignment: 9
+      pivot: {x: .334554315, y: .437123209}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Redmanattack_3
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 1710
+        width: 141
+        height: 324
+      alignment: 9
+      pivot: {x: .314015061, y: .435621083}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Redmanattack_4
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 1711
+        width: 170
+        height: 301
+      alignment: 9
+      pivot: {x: .501537383, y: .462621748}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Redmanattack_5
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1370
+        width: 177
+        height: 288
+      alignment: 9
+      pivot: {x: .540360391, y: .467642039}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Redmanattack_6
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 1370
+        width: 180
+        height: 273
+      alignment: 9
+      pivot: {x: .561159968, y: .512545049}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Redmanattack_7
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 1370
+        width: 183
+        height: 266
+      alignment: 9
+      pivot: {x: .600560606, y: .526773334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Redmanattack_8
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 1370
+        width: 181
+        height: 265
+      alignment: 9
+      pivot: {x: .619823158, y: .524181426}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Redmanattack_9
+      rect:
+        serializedVersion: 2
+        x: 1489
+        y: 1368
+        width: 194
+        height: 340
+      alignment: 9
+      pivot: {x: .235097989, y: .399433076}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Redmanattack_10
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1030
+        width: 287
+        height: 296
+      alignment: 9
+      pivot: {x: .149610594, y: .465139031}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Redmanattack_11
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 1029
+        width: 291
+        height: 227
+      alignment: 9
+      pivot: {x: .162109166, y: .602728903}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Redmanattack_12
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 1028
+        width: 280
+        height: 230
+      alignment: 9
+      pivot: {x: .186852813, y: .607571006}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Redmanattack_13
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 1029
+        width: 239
+        height: 260
+      alignment: 9
+      pivot: {x: .227777585, y: .525546014}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Redmanattack_14
+      rect:
+        serializedVersion: 2
+        x: 1482
+        y: 1030
+        width: 183
+        height: 304
+      alignment: 9
+      pivot: {x: .326567441, y: .459416032}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
